@@ -1,6 +1,8 @@
 Madhav Ecommerce Sales Project
 
-In this project, i analyzed ecommerce sales data in Power BI and created a interactive dashboard.
+In this project, i analyzed ecommerce sales data in Power BI and created a interactive dashboard. Done the transformation with the help of power query editior.
+
+
 
 Created interactive dashboard to track and analyze online sales data
 
